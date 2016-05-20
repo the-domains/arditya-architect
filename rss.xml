@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[arditya.architect]]></title>
         <description><![CDATA[arditya.architect]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arditya-architect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 00:58:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 00:58:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arditya-architect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5093c96c-cf5e-4b73-a5f2-7e0aa0c67d33.jpg">]]></description>
+            <link>https://thegrid.ai/arditya-architect/r83-test/index.html</link>
+            <guid isPermaLink="false">e2eb6e29-1b4c-4fe7-9868-7503d35f5ac4</guid>
+            <pubDate>Fri, 20 May 2016 00:58:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a50e5150-78bf-4ab7-bd12-f65266cc61cf.jpg">]]></description>
-            <link>undefinedgreen-tower/index.html</link>
+            <link>https://thegrid.ai/arditya-architect/green-tower/index.html</link>
             <guid isPermaLink="false">074e65ec-6798-4bd1-a1af-553d94744b46</guid>
             <pubDate>Fri, 20 May 2016 00:58:03 GMT</pubDate>
         </item>
